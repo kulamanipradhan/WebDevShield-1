@@ -53,7 +53,7 @@ export function Contact() {
       <div className="max-w-4xl mx-auto">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-16">
           <span className="text-cyber-blue font-mono">echo</span> "Let's Connect"
-          <span className="text-cyber-green"> > contact.txt</span>
+          <span className="text-cyber-green"> {'>'} contact.txt</span>
         </h2>
 
         <div className="grid md:grid-cols-2 gap-12">
