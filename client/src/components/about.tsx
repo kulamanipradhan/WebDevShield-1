@@ -11,16 +11,16 @@ export function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I'm a passionate cybersecurity engineer and web developer with a unique blend
+              I'm a passionate cybersecurity engineer and web developer from India with a unique blend
               of defensive and offensive security skills. Currently working at Infosys, I
               specialize in identifying vulnerabilities and building secure applications
               that can withstand modern threats.
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              My expertise spans across penetration testing, vulnerability assessment,
-              secure code review, and full-stack web development. I love the challenge of
-              thinking like an attacker to build better defenses.
+              My journey includes working on SIEM tools like NetForest at Cavisson, where I focused on
+              scripting and parsing. I love the challenge of thinking like an attacker to build better
+              defenses and creating beautiful, secure web applications.
             </p>
 
             <div className="flex flex-wrap gap-3 mt-8">

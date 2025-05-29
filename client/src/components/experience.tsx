@@ -5,7 +5,7 @@ export function Experience() {
     {
       company: "Infosys Limited",
       position: "Cybersecurity Engineer",
-      period: "2022 - Present",
+      period: "Sept 2024 - Present",
       icon: Building,
       type: "security",
       responsibilities: [
@@ -13,13 +13,13 @@ export function Experience() {
         "Perform vulnerability assessments and security code reviews",
         "Develop security automation tools and frameworks",
         "Lead incident response and threat hunting activities",
-        "Mentor junior security engineers and conduct training sessions"
+        "Completed 2-month pre-training program (July - Aug 2024)"
       ]
     },
     {
       company: "Freelance Developer",
       position: "Full-Stack Developer & Security Consultant",
-      period: "2021 - 2022",
+      period: "Sept 2022 - July 2024",
       icon: Laptop,
       type: "web",
       responsibilities: [
@@ -30,16 +30,16 @@ export function Experience() {
       ]
     },
     {
-      company: "University Projects",
-      position: "Computer Science Student",
-      period: "2019 - 2021",
-      icon: GraduationCap,
+      company: "Cavisson Systems",
+      position: "Associate Software Engineer",
+      period: "April 2022 - Sept 2022",
+      icon: Building,
       type: "security",
       responsibilities: [
-        "Developed secure web applications as academic projects",
-        "Participated in cybersecurity competitions and CTFs",
-        "Created vulnerability assessment tools for research",
-        "Published papers on web application security"
+        "Worked on NetForest - an in-house SIEM tool",
+        "Developed scripts for data parsing and analysis",
+        "Implemented log parsing mechanisms for security monitoring",
+        "Contributed to security tool development and enhancement"
       ]
     }
   ];

@@ -32,7 +32,7 @@ export function Hero() {
         <h1 className="text-4xl md:text-6xl font-bold mb-6">
           <span className="text-foreground">Hello, I'm</span>
           <br />
-          <span className="text-cyber-green font-mono">&lt;SecurityDev/&gt;</span>
+          <span className="text-cyber-green font-mono">&lt;stealthrecon01/&gt;</span>
         </h1>
 
         <div className="text-xl md:text-2xl text-muted-foreground mb-8 font-mono min-h-[2rem]">
@@ -44,7 +44,7 @@ export function Hero() {
         <p className="text-lg text-muted-foreground max-w-3xl mx-auto mb-12 leading-relaxed">
           Cybersecurity Engineer at{" "}
           <span className="text-cyber-blue font-semibold">Infosys</span>{" "}
-          specializing in penetration testing, vulnerability management, and secure web
+          from India, specializing in penetration testing, vulnerability management, and secure web
           application development. I build beautiful, secure applications and break them too.
         </p>
 

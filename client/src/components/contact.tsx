@@ -70,15 +70,11 @@ export function Contact() {
             <div className="space-y-4">
               <div className="flex items-center space-x-4">
                 <Mail className="h-5 w-5 text-cyber-green" />
-                <span className="font-mono">security.dev@example.com</span>
-              </div>
-              <div className="flex items-center space-x-4">
-                <Phone className="h-5 w-5 text-cyber-blue" />
-                <span className="font-mono">+1 (555) 123-4567</span>
+                <span className="font-mono">stealthrecon01@gmail.com</span>
               </div>
               <div className="flex items-center space-x-4">
                 <MapPin className="h-5 w-5 text-cyber-green" />
-                <span className="font-mono">Available for Remote Work</span>
+                <span className="font-mono">India • Available for Remote Work</span>
               </div>
             </div>
 
