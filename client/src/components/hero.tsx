@@ -42,9 +42,9 @@ export function Hero() {
         </div>
 
         <p className="text-lg text-muted-foreground max-w-3xl mx-auto mb-12 leading-relaxed">
-          Cybersecurity Engineer at{" "}
-          <span className="text-cyber-blue font-semibold">Infosys</span>{" "}
-          from India, specializing in penetration testing, vulnerability management, and secure web
+         Cybersecurity Engineer  from {" "}
+          <span className="text-cyber-blue font-semibold">India</span>{" "}
+           , specializing in penetration testing, vulnerability management, and secure web
           application development. I build beautiful, secure applications and break them too.
         </p>
 
